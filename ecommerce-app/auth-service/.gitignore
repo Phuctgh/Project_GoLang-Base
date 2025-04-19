@@ -1,1 +1,6 @@
-auth-service/cmd/server/.env
+# Ignore all .env files
+*.env
+**/.env
+
+# Ignore VSCode folder
+.vscode/
